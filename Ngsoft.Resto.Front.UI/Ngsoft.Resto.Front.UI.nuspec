@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Aleksandr Nagorniy</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <repository type="git" url="https://github.com/nagorniy-ad/Ngsoft.Resto.Front.UI.git" />
+    <icon>Ngsoft.Resto.Front.UI.png</icon>
+    <description>Contains PluginViewManager class for displaying iikoFront plugin's UI</description>
+    <releaseNotes>First public release.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>iiko iikoFront</tags>
+  </metadata>
+  <files>
+    <file src="Ngsoft.Resto.Front.UI.png" />
+  </files>
+</package>
